@@ -4,7 +4,7 @@ This program implements the use of `useSate()` and `useEffect()` hooks while fet
 ## HOW TO TRY THIS PROGRAM
 1. Clone this project
 ```sh
-git clone https://github.com/yasirmaxstyle/fgo24-react-table
+git clone https://github.com/yasirmaxstyle/fgo24-react-hooks
 ```
 2. Install NPM
 ```sh
